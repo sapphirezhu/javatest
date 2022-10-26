@@ -6,7 +6,7 @@
 </head>
 <body>
 <%
-String abc="重新测试";
+String abc="重新测试33";
 %>
 <%=abc%>
 </body>
