@@ -37,7 +37,7 @@ String abc="重新测试3388";
     String abc="重新测试3388";
 %>
 <%=abc%><%
-    String abc="重新测试3388";
+    String abc="重新测试33242423488";
 %>
 <%=abc%>
 <%
@@ -52,7 +52,7 @@ String abc="重新测试3388";
     String abc="重新测试3388";
 %>
 <%=abc%><%
-    String abc="重新测试3388";
+    String abc="重新234234测试3388";
 %>
 <%=abc%>
 
