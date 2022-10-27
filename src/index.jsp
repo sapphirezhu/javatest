@@ -6,8 +6,61 @@
 </head>
 <body>
 <%
-String abc="重新测试33";
+String abc="重新测试3388";
 %>
 <%=abc%>
+<%
+    String abc="重新测试3388";
+%>
+<%=abc%>
+<%
+    String abc="重新测试3388";
+%>
+<%=abc%>
+<%
+    String abc="重新测试3388";
+%>
+<%=abc%><%
+    String abc="重新测试3388";
+%>
+<%=abc%>
+<%
+    String abc="重新测试3388";
+%>
+<%=abc%><%
+    String abc="重新测试3388";
+%>
+<%=abc%><%
+    String abc="重新测试3388";
+%>
+<%=abc%><%
+    String abc="重新测试3388";
+%>
+<%=abc%><%
+    String abc="重新测试3388";
+%>
+<%=abc%>
+<%
+    String abc="重新测试33123882";
+%>
+<%=abc%>
+<%
+    String abc="重新测试3388";
+%>
+<%=abc%>
+<%
+    String abc="重新测试3388";
+%>
+<%=abc%><%
+    String abc="重新测试3388";
+%>
+<%=abc%>
+
+
+
+
+
+
+
 </body>
 </html>
