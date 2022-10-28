@@ -45,7 +45,7 @@ String abc="重新测试3388";
 %>
 <%=abc%>
 <%
-    String abc="重新测试3388";
+    String abc="重新测试2343388";
 %>
 <%=abc%>
 <%
